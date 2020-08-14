@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on Setting up Jitsi, and AWS S3 for our internal project
+- 🔭 I’m currently working on Setting up Jitsi, and AWS S3 image upload
 
 
 
