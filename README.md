@@ -18,4 +18,14 @@
 *Setting up ‘Many-to-many-through’ association between models using junction&#x2F;through table.Continue reading on Craft Academy »*
 #### [Basic user authentication in express — Part 2](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;basic-user-authentication-in-express-part-2-4d55681e41f6?source&#x3D;rss-98456604b7f3------2) 
 *Using passport-jwt strategy.Continue reading on Craft Academy »*
+#### [Basic User Authentication in Express](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;basic-user-authentication-in-express-6c996753a0b0?source&#x3D;rss-98456604b7f3------2) 
+*using passport local strategy (email + password)Continue reading on Craft Academy »*
+#### [Setting up Sequelize associations](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;setting-up-sequelize-associations-abddc5ed16d0?source&#x3D;rss-98456604b7f3------2) 
+*Between User and Post models in our ExpressJS APIContinue reading on Craft Academy »*
+#### [Using sequelize with expressJS](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;connecting-sequelize-with-expressjs-ab2a6fc44d12?source&#x3D;rss-98456604b7f3------2) 
+*And connecting to PostgreSQLContinue reading on Craft Academy »*
+#### [How to scaffold ExpressJS server and test it](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;how-to-scaffold-expressjs-server-and-test-it-d2a2ab1d30e0?source&#x3D;rss-98456604b7f3------2) 
+*The absolute  basics with express and mochaContinue reading on Craft Academy »*
+#### [Oh, I just spotted it. How dumb is that...](https:&#x2F;&#x2F;medium.com&#x2F;@naik.aditya&#x2F;oh-i-just-spotted-it-how-dumb-is-that-76a3bb6955ba?source&#x3D;rss-98456604b7f3------2) 
+**
 <!--END_SECTION:feed-->
