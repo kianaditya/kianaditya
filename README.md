@@ -8,6 +8,8 @@
 ### 📙 My Latest Medium Articles
 
 <!--START_SECTION:feed-->
+#### [Toggle mocked routes in Cypress](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;toggle-mocked-routes-in-cypress-982c6d4dcc6?source&#x3D;rss-98456604b7f3------2) 
+*to keep API response and fixtures aligned.Continue reading on Craft Academy »*
 #### [Simple SocketIO implementation](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;simple-socketio-implementation-d8e506d7626a?source&#x3D;rss-98456604b7f3------2) 
 *using react and expressContinue reading on Craft Academy »*
 #### [Unit testing Express API](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;unit-testing-express-api-c55cb709b3ac?source&#x3D;rss-98456604b7f3------2) 
@@ -26,6 +28,4 @@
 *And connecting to PostgreSQLContinue reading on Craft Academy »*
 #### [How to scaffold ExpressJS server and test it](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;how-to-scaffold-expressjs-server-and-test-it-d2a2ab1d30e0?source&#x3D;rss-98456604b7f3------2) 
 *The absolute  basics with express and mochaContinue reading on Craft Academy »*
-#### [Oh, I just spotted it. How dumb is that...](https:&#x2F;&#x2F;medium.com&#x2F;@naik.aditya&#x2F;oh-i-just-spotted-it-how-dumb-is-that-76a3bb6955ba?source&#x3D;rss-98456604b7f3------2) 
-**
 <!--END_SECTION:feed-->
