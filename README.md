@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
+  - Building a dashboard in Gatsby
   - Setting up Jitsi, 
   - AWS S3 image upload using presigned URL
   - Rails Active Record querying, associations and serializers
