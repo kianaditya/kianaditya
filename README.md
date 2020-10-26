@@ -6,7 +6,6 @@
   - AWS S3 image upload using presigned URL
   - Rails Active Record querying, associations and serializers
 
-![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=kianaditya&count_private=true&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianaditya)
 
 ### 📙 My Latest Medium Articles
