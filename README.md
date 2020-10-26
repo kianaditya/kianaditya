@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-  - Building a dashboard in Gatsby
+  - Using Autocomplete component from Material UI
   - Setting up Jitsi, 
   - AWS S3 image upload using presigned URL
-  - Rails Active Record querying, associations and serializers
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianaditya)
 
