@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-  - Using Autocomplete component from Material UI
-  - Setting up Jitsi, 
-  - AWS S3 image upload using presigned URL
+  - Adding Serial Numbers to our products!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianaditya)
 
