@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
+  - Adding i18n
   - Adding Serial Numbers to our products!
   - Setting up docker on raspberry pi to host FreshRSS 
 
