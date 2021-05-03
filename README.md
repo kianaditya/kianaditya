@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on 
-  - Adding i18n
-  - Adding Serial Numbers to our products!
-  - Setting up docker on raspberry pi to host FreshRSS 
+  - Setting up user management, and access management  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianaditya)
 
