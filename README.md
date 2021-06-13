@@ -16,5 +16,4 @@
 #### [Basic user authentication in express — Part 2](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;basic-user-authentication-in-express-part-2-4d55681e41f6?source&#x3D;rss-98456604b7f3------2)
 #### [Basic User Authentication in Express](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;basic-user-authentication-in-express-6c996753a0b0?source&#x3D;rss-98456604b7f3------2)
 #### [Setting up Sequelize associations](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;setting-up-sequelize-associations-abddc5ed16d0?source&#x3D;rss-98456604b7f3------2)
-#### [Using sequelize with expressJS](https:&#x2F;&#x2F;medium.com&#x2F;craft-academy&#x2F;connecting-sequelize-with-expressjs-ab2a6fc44d12?source&#x3D;rss-98456604b7f3------2)
 <!--END_SECTION:feed-->
